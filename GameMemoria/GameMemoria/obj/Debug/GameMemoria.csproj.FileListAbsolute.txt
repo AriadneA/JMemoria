@@ -1,0 +1,35 @@
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\bin\Debug\GameMemoria.exe.config
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\bin\Debug\GameMemoria.exe
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\bin\Debug\GameMemoria.pdb
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.csprojAssemblyReference.cache
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.Form1.resources
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.Properties.Resources.resources
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.csproj.GenerateResource.cache
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.csproj.CoreCompileInputs.cache
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.exe
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.pdb
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.TelaInicial.resources
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\bin\Debug\GameMemoria.exe.config
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\bin\Debug\GameMemoria.exe
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\bin\Debug\GameMemoria.pdb
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.csprojAssemblyReference.cache
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.Form1.resources
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.Properties.Resources.resources
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.Resource1.resources
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.TelaInicial.resources
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.csproj.GenerateResource.cache
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.exe
+C:\Users\Marlete\Desktop\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.pdb
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\bin\Debug\GameMemoria.exe.config
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\bin\Debug\GameMemoria.exe
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\bin\Debug\GameMemoria.pdb
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.csprojAssemblyReference.cache
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.Properties.Resources.resources
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.TelaInicial.resources
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.csproj.GenerateResource.cache
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.exe
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.pdb
+C:\Users\Marlete\Desktop\Projetos Ari\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.Game.resources
+C:\Users\195503\Desktop\I3A-Ariadne\JoguinhoMemoria\GameMemoria\GameMemoria\obj\Debug\GameMemoria.Game.resources
